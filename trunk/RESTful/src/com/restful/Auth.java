@@ -1,4 +1,4 @@
-//						This Program is used to Authentication the user
+//						This Program is used to authentication the user
 package com.restful;
 
 import java.sql.Connection;
